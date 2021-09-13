@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+
+margin: 0;}
+.page-wrapped{
+    font-size: 0px;
+}
+
+.left-page-wrapped{
+    background:blue;
+    width: 150px;
+    height: 60vh;
+    display: inline-block;
+}
+   .Middle-page-wrapped{
+       background:lightgreen;
+       width: 500px;
+       height: 60vh;
+       display: inline-block;
+    
+   }
+   
+.first{
+    background:green;
+    width: 500px;
+    height: 10vh;    
+}
+    
+.middle{
+    background-color:#FFDEAD;
+    width: 500px;
+    height: 40vh;
+ 
+    
+
+   
+}
+.last{
+    background-color:#F4A460;
+    width: 500px;
+    height: 10vh;
+    
+}
+
+.right-page-wrapped{
+    background-color:blue;
+    width: 150px;
+    height: 60vh;  
+    display: inline-block;
+}
